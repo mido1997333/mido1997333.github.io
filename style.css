@@ -28,7 +28,7 @@ header {
 
 .navigation a {
     color: #3a6cf3;
-    text-transform: none;
+   text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
     padding-left: 30px;
